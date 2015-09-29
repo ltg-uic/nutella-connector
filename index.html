@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="">
+<head>
+    <title>nutella-connector</title>
+    <script src="../webcomponentsjs/webcomponents-lite.min.js"></script>
+    <link rel="import" href="nutella-connector.html">
+    <link rel="import" href="./bower_components/polymer/polymer.html">
+    <style is="custom-style">
+
+        html,
+        body {
+            font-family: "Roboto", sans-serif;
+            font-weight: normal;
+        }
+
+    </style>
+</head>
+<body unresolved="" class="fullbleed layout vertical">
+<template is="dom-bind" id="app">
+    <nutella-connector connected={{connected}} id="nutellaConn" host="127.0.0.1" appid="wallcology" runid="default"
+                    componentid="wallcology_admin"></nutella-connector>
+</template>
+</body>
+<script>
+    var app = document.querySelector('#app');
+
+    // The dom-change event signifies when the template has stamped its DOM.
+    app.addEventListener('dom-change', function() {
+        //we are ready
+        console.log('ready freddy');
+    });
+</script>
+</html>
