@@ -38,21 +38,25 @@
                     value: false,
                     observer: 'connectedChanged'
                 },
-                host: {
+                hostname: {
                     type: String,
                     notify: true,
+                    value: ''
                 },
                 appid: {
                     type: String,
                     notify: true,
+                    value: ''
                 },
                 runid: {
                     type: String,
                     notify: true,
+                    value: ''
                 },
                 componentid: {
                     type: String,
                     notify: true,
+                    value: ''
                 }
             },
             connectedChanged: function (newValue, oldValue) {
@@ -61,7 +65,7 @@
             ready: function () {
                 var me = this;
 
-                me.nutella = NUTELLA.init(this.host, this.appid, this.runid, this.componentid,
+                me.nutella = NUTELLA.init(me.hostname, me.appid, me.runid, me.componentid,
                         function (success) {
                             if (success) {
                                 console.log('Successfully connected nutella!');
@@ -69,7 +73,7 @@
                                 me.connected = true;
                             } else {
                                 console.log('Error connecting!');
-                                alert('Error connecting to nutella! host: ' + me.host + ' appId: ' + me.appid + ' runId: ' + me.runId + ' componentId: ' + me.componentId);
+                                alert('Error connecting to nutella! host: ' + me.hostname + ' appId: ' + me.appid + ' runId: ' + me.runid + ' componentId: ' + me.componentid);
                             }
                         });
 
