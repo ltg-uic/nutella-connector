@@ -2,99 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9ff5e4b-81d1-44a0-90f6-f247cb43e1df" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/update_to_nan_v2.0.x.sh" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/build/Release/bufferutil.node" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/build/Release/bufferutil.node" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/build/Release/obj.target/bufferutil/src/bufferutil.o" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/build/Release/obj.target/bufferutil/src/bufferutil.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/Release/kerberos.node" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/Release/kerberos.node" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/Release/obj.target/kerberos/lib/kerberos.o" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/Release/obj.target/kerberos/lib/kerberos.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/Release/obj.target/kerberos/lib/kerberos_context.o" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/Release/obj.target/kerberos/lib/kerberos_context.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/Release/obj.target/kerberos/lib/kerberosgss.o" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/Release/obj.target/kerberos/lib/kerberosgss.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/build/Release/validation.node" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/build/Release/validation.node" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/build/Release/obj.target/validation/src/validation.o" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/build/Release/obj.target/validation/src/validation.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/HISTORY" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/HISTORY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/History.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/duplexify/node_modules/readable-stream/node_modules/util-deprecate/History.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/duplexify/node_modules/readable-stream/node_modules/util-deprecate/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/README.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/README.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/README.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/test/abstract_client.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/test/abstract_client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/aggregation_cursor.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/aggregation_cursor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/appveyor.yml" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/appveyor.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/appveyor.yml" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/appveyor.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/browser.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/duplexify/node_modules/readable-stream/node_modules/util-deprecate/browser.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/duplexify/node_modules/readable-stream/node_modules/util-deprecate/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/examples/browser_hello_world.html" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/examples/browser_hello_world.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/bson.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/bson.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/build/Release/.deps/Release/obj.target/bufferutil/src/bufferutil.o.d" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/build/Release/.deps/Release/obj.target/bufferutil/src/bufferutil.o.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/callback.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/callback.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/callback.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/callback.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/lib/client.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/lib/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/collection.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/collection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/command_cursor.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/command_cursor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/config.gypi" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/build/config.gypi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/build/config.gypi" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/build/config.gypi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/build/config.gypi" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/build/config.gypi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/cursor.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/cursor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/mqtt-packet/generate.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/mqtt-packet/generate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/index.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberos.cc" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberos.cc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberos.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberos.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberos_context.cc" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberos_context.cc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberos_context.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberos_context.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberosgss.c" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberosgss.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberosgss.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/lib/kerberosgss.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/maybe_types.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/maybe_types.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/maybe_types.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/maybe_types.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/methods.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/methods.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/methods.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/methods.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/src/persist/mongo_persisted_collection.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/src/persist/mongo_persisted_collection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_callbacks_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_callbacks_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_callbacks_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_callbacks_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_callbacks_pre_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_callbacks_pre_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_callbacks_pre_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_callbacks_pre_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_implementation_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_implementation_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_implementation_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_implementation_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_implementation_pre_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_implementation_pre_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_implementation_pre_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_implementation_pre_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_new.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_new.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_new.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_new.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_persistent_pre_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/nan_persistent_pre_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_persistent_pre_12_inl.h" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/nan_persistent_pre_12_inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/new.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/new.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/new.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/new.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/examples/node_hello_world.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/examples/node_hello_world.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nutella-connector.html" afterPath="$PROJECT_DIR$/nutella-connector.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/dist/nutella_lib.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/dist/nutella_lib.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mkdirp/node_modules/minimist/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mkdirp/node_modules/minimist/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/mqtt-packet/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/mqtt-packet/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/duplexify/node_modules/readable-stream/node_modules/util-deprecate/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/duplexify/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/package.json" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/persistent.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/persistent.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/persistent.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/persistent.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/bin/pub.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/bin/pub.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/parser/serializer.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/parser/serializer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/bin/sub.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/bin/sub.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/mqtt-packet/test.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/mqtt-packet/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/url_parser.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mongodb/lib/url_parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/v8_internals.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/v8_internals.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/v8_internals.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/v8_internals.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/v8_misc.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/bufferutil/node_modules/nan/doc/v8_misc.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/v8_misc.md" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/node_modules/nan/doc/v8_misc.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/build/Release/.deps/Release/obj.target/validation/src/validation.o.d" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/node_modules/mqtt/node_modules/websocket-stream/node_modules/ws/node_modules/utf-8-validate/build/Release/.deps/Release/obj.target/validation/src/validation.o.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/nutella_lib/src/version.js" afterPath="$PROJECT_DIR$/node_modules/nutella_lib/src/version.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nutella-connector.iws" />
@@ -116,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nutella-connector.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nutella-connector.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nutella-connector.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28217822">
+            <state vertical-scroll-proportion="-38.125">
               <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.64356434">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -129,7 +47,7 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/nutella_lib/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.25">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -139,7 +57,7 @@
       <file leaf-file-name="nutella_lib.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/nutella_lib/dist/nutella_lib.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.4444447">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1656" column="97" selection-start-line="1656" selection-start-column="91" selection-end-line="1656" selection-end-column="97" />
               <folding />
             </state>
@@ -170,12 +88,12 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/elements/index.html" />
         <option value="$PROJECT_DIR$/elements/nutella-connector.html" />
         <option value="$PROJECT_DIR$/demo/index.html" />
         <option value="$PROJECT_DIR$/node_modules/nutella_lib/package.json" />
         <option value="$PROJECT_DIR$/nutella-connector.html" />
+        <option value="$PROJECT_DIR$/bower.json" />
       </list>
     </option>
   </component>
@@ -187,8 +105,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="195" />
-    <option name="y" value="31" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
   </component>
@@ -216,7 +133,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -303,8 +219,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutella-connector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nutella-connector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polymer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -409,10 +344,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="31" width="1440" height="873" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23185341" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23185341" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -454,6 +389,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nutella-connector.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nutella_lib/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nutella_lib/dist/nutella_lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1656" column="97" selection-start-line="1656" selection-start-column="91" selection-end-line="1656" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nutella-connector.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -684,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.25">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -701,7 +661,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/nutella_lib/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.25">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -709,7 +669,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/nutella_lib/dist/nutella_lib.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.4444447">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1656" column="97" selection-start-line="1656" selection-start-column="91" selection-end-line="1656" selection-end-column="97" />
           <folding />
         </state>
@@ -717,8 +677,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nutella-connector.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28217822">
+        <state vertical-scroll-proportion="-38.125">
           <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64356434">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
           <folding />
         </state>
       </provider>
