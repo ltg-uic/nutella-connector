@@ -71,7 +71,7 @@
             ready: function () {
                 var me = this;
                 // Nutella initialization
-                if( this.roomcast ) {
+                if( query_parameters && query_parameters.app_id ) {
                     var query_parameters = NUTELLA.parseURLParameters();
 
                     console.log('query params: broker', query_parameters.broker);
