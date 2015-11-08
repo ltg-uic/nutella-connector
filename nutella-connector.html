@@ -94,6 +94,12 @@
 
                 } else {
                     console.log('using nutella static');
+
+                    console.log('brokerid:', me.hostname);
+                    console.log('appid:', me.appid);
+                    console.log('runid:', me.runid);
+                    console.log('me.componentid:', me.componentid);
+                    
                     me.nutella = NUTELLA.init(me.hostname, me.appid, me.runid, me.componentid,
                             function (success) {
                                 if (success) {
